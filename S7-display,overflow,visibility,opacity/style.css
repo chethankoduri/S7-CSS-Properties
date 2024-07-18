@@ -1,0 +1,41 @@
+#ToprichestIndiansBody{
+    background-color: aquamarine;
+}
+#mukesh{
+    width: 300px;
+}
+#goutham{
+    width: 300px;
+}
+#shivnadar{
+    width: 300px;
+}
+#mukeshDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 450px;
+    overflow: auto;
+    text-align: justify;
+}
+#gouthamDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 450px;
+    overflow: auto;
+    text-align: justify;
+ }
+ #shivnadarDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 450px;
+    overflow: auto;
+    text-align: justify;
+}
+#mainHeading{
+   background-color: blueviolet; 
+   text-align: center;
+   font-size: 3rem;
+   color: orangered;
+   border-radius: 20px;
+   text-shadow: 5px 5px 5px rebeccapurple;
+}
